@@ -65,8 +65,8 @@ print("Hello", name)
 
 Click `File > New File`.  You should now have the interpreter (or shell) next to an untitled text file.  Put them side by side and rename the `File > Save As` `hello` in a new directory called `code` in your home directory.  You'll notice [IDLE](https://docs.python.org/3/library/idle.html) automatically adds adds the .py extension.  Save the file and `Run > Run Module` or `F5` to execute.  You should see:
 
-![img0](https://halkyard.github.io/halkyard.github.io/img0.png?raw=true)
-[view](https://halkyard.github.io/halkyard.github.io/img0.png)
+![img0](https://halkyard.github.io/lh/assets/img0.png?raw=true)
+[view](https://halkyard.github.io/lh/assets/img0.png)
 
 ### Next Steps
 
