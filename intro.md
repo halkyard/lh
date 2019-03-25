@@ -70,6 +70,6 @@ Click `File > New File`.  You should now have the interpreter (or shell) next to
 
 ### Next Steps
 
-*    Read and complete the exercises in chapters 1 through 7 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+*    Read and complete the exercises in chapters 1 through 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 
