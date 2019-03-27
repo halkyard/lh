@@ -9,7 +9,7 @@ This is a "Hello world" minimal site to guage interest in a 'hands on' approach 
 *    cheat sheets
 *    shared learnings
 
-The first of these is on the [Intro page](/lh/Intro), it covers the installation of python and running `hello.py` from the terminal and IDLE.  
+The first of these is on the [Intro page](/sh/Intro), it covers the installation of python and running `hello.py` from the terminal and IDLE.  
 
 The rest of this page is a cheat sheet for setting up a website using Jekyll and GitHub pages.
 
@@ -44,25 +44,25 @@ gem install jekyll bundler
 When creating for the first time use `bundle exec jekyll serve`, thereafter `jekyll serve` should work fine.
 
 ```
-jekyll new lh
-cd lh
+jekyll new sh
+cd sh
 ```
 
 *    add base url to `_confiq.yml`
 
-![base-url](/lh/assets/images/base-url.png?raw=true)
+![base-url](/sh/assets/images/base-url.png?raw=true)
 
 *   launch site locally
 ```
 bundle exec jekyll serve
 ```
-*    server address: http://127.0.0.1:4000/lh
+*    server address: http://127.0.0.1:4000/sh
 *    press ctrl-c to stop
 
 #### Create new GitHub repository
 
 *    **do not** Initialize repository with README
-![](/lh/assets/images/new-repository.png?raw=true)
+![](/sh/assets/images/new-repository.png?raw=true)
 
 #### Initialize git repository
 
@@ -74,14 +74,14 @@ git add .
 git commit -m "initial commit"
 ```
 *    grab repository url
-![](/lh/assets/images/initial-commit.png?raw=true)
+![](/sh/assets/images/initial-commit.png?raw=true)
 
 ```
 git push -u origin gh-pages
 ```
 #### Reload repository
 
-![](/lh/assets/images/initial-commit-reload.png?raw=true)
+![](/sh/assets/images/initial-commit-reload.png?raw=true)
 
-![](/lh/assets/images/published-at.png?raw=true)
+![](/sh/assets/images/published-at.png?raw=true)
 
