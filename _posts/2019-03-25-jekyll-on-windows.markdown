@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows test"
+title:  "Jekyll on Windows pt I"
 date:   2019-03-25
 categories: windows test
 ---
