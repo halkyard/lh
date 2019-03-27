@@ -77,7 +77,7 @@ git commit -m "initial commit"
 ![](/lh/assets/images/initial-commit.png?raw=true)
 
 ```
-commit git push -u origin gh-pages
+git push -u origin gh-pages
 ```
 #### Reload repository
 
