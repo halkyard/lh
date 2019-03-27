@@ -4,10 +4,10 @@ title: Social conformity and Windows part II
 date:   2019-03-27
 ---
 
-##Social conformity##
+## Social conformity ##
 Our team are preparing for a design sprint and someone shared this video which I thought was interesting: [Brain game - waiting room](https://youtu.be/o8BkzvP19v4).
 
-##Running Jekyll on Windows part II##
+## Running Jekyll on Windows part II ##
 I experimented with a few different approaches to getting Jekyll up and running on a Windows machine.  It is not very well supported unfortunately so I decided to try [Ubuntu linux running inside Windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) and it worked flawlessly.
 
 The steps are listed here:  [https://jekyllrb.com/docs/installation/ubuntu/](https://jekyllrb.com/docs/installation/ubuntu/).  
