@@ -15,7 +15,7 @@ The rest of this page is a cheat sheet for setting up a website using Jekyll and
 
 ## Jekyll
 
-These are the steps for setting up on a Mac.  Windows and Linux can be found on the main [Jekyll](https://jekyllrb.com/docs/installation/) site, but I haven't tested them.  I'm also going to experiment with the documentation themes [just-the-docs](https://pmarsceill.github.io/just-the-docs/) and [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) locally.  I'd really like to delete some of the noise on this 'minimal' template but this should do for now.
+These are the steps for setting up on a Mac.  Windows and Linux can be found on the main [Jekyll](https://jekyllrb.com/docs/installation/) site, see [subsequent post](/2019/03/27/conformity-windows-pt-ii).  I'm also going to experiment with the documentation themes [just-the-docs](https://pmarsceill.github.io/just-the-docs/) and [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) locally.  I'd really like to delete some of the noise on this 'minimal' template but this should do for now.
 
 ### Useful resources
 
