@@ -2,6 +2,7 @@
 layout: post
 title: Social conformity and Windows part II
 date:   2019-03-27
+permalink: /windows-pii
 ---
 
 ## Social conformity ##
