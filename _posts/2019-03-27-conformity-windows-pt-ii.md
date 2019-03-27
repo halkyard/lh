@@ -8,7 +8,7 @@ date:   2019-03-27
 Our team are preparing for a design sprint and someone shared this video which I thought was interesting: [Brain game - waiting room](https://youtu.be/o8BkzvP19v4).
 
 ## Running Jekyll on Windows part II ##
-I experimented with a few different approaches to getting Jekyll up and running on a Windows machine.  It is not very well supported unfortunately so I decided to try [Ubuntu linux running inside Windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) and it worked flawlessly.
+I experimented with a few different approaches to getting Jekyll/bundler up and running on Windows.  It is not well supported unfortunately, so decided to try [Ubuntu linux running inside Windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) instead.  It worked flawlessly.
 
 The steps are listed here:  [https://jekyllrb.com/docs/installation/ubuntu/](https://jekyllrb.com/docs/installation/ubuntu/).  
 
