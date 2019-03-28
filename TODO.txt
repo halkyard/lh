@@ -1,0 +1,17 @@
+Finish step through tutorial on Python
+
+Ideas for blogs, cheat sheets:
+
+- Gephi/CSA
+- text processing, regex, sed, awk, grep, vim
+- open data wrangling sql and pandas
+- Flask app on aws
+- Sagemaker on AWS
+- Encryption
+- Turtle with cosmo or some other api/programmable robot
+- chatbot on aws
+- hacking ms office applications
+- hacking on apis
+- ontologies and semantic graphs
+
+
