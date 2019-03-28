@@ -19,7 +19,7 @@ It is also good to reinforce the principle that it is possible to learn topics o
 
 Python modules or programs are also objects and can imported.  Try:
 
-```py
+```
 import this
 The Zen of Python, by Tim Peters
 
