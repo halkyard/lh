@@ -13,7 +13,6 @@ It is also good to reinforce the principle that it is possible to learn topics o
 
 *    [Turtle Geometry: The Computer as a Medium for Exploring Mathematics - Artificial Intelligence](https://www.amazon.com/gp/product/0262510375)
 *    [Turtle docs](https://docs.python.org/3.3/library/turtle.html?highlight=turtle)
-*    [Al's turtle stuff](https://github.com/asweigart/art-of-turtle-programming)
 
 ## Importing the Zen of python
 
