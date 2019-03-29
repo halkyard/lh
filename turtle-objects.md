@@ -211,8 +211,8 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 ## Dictionaries and Classes
 ## Step through lindenmeyer anklets of krishna 
 
-- [ ] indenting
-- [ ] comments
+- [x] indenting
+- [x] comments
 - [ ] link out to http://inventwithpython.com/invent4thed/chapter6.html
 Reading well written code will help us to think in a more 'pythonic' way.
 
