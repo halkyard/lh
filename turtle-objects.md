@@ -2,6 +2,8 @@
 title: Turtle
 description: Everything in Python is an object
 ---
+“Let no-one ignorant of geometry enter here” ~ [Plato](https://www.storyofmathematics.com/greek_plato.html)
+
 # Introduction to python objects through Turtle graphics
 Everything in Python is an object.  We'll use the turtle demo to explore basic data types because:
 *   it can be boring to learn building blocks without making anything
