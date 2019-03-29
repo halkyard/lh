@@ -191,7 +191,7 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 
 ![1](/sh/assets/images/turtle1.png?raw=true)
 
-## Debug final example yinyang
+## Debug peace.py
 
 *    copy the script from the final example to the clipboard
 *    paste into a `File > New File`
@@ -201,6 +201,7 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 
 ## Step through peace.py
 ## Step through yinyang.py
+### Intro to ipdb
 ## Step through paint.py
 ## Create some shapes
 ### Make a square
@@ -210,6 +211,9 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 ## Dictionaries and Classes
 ## Step through lindenmeyer anklets of krishna 
 
-[]    indenting
-[]    comments
+- [ ] indenting
+- [ ] comments
+- [ ] link out to http://inventwithpython.com/invent4thed/chapter6.html
 Reading well written code will help us to think in a more 'pythonic' way.
+
+
