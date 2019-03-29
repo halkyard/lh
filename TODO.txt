@@ -13,5 +13,6 @@ Ideas for blogs, cheat sheets:
 - hacking ms office applications
 - hacking on apis
 - ontologies and semantic graphs
+- string and int print("5" + "5")
 
 
