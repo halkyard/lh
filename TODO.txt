@@ -13,5 +13,6 @@ Ideas for blogs, cheat sheets:
 - hacking ms office applications
 - hacking on apis
 - ontologies and semantic graphs
-
-
+- Classes and dictionaries
+- Step through lindenmeyer anklets of krishna 
+- problem to solve
