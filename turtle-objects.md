@@ -198,7 +198,6 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 *    turn on `Debug > Debugger`
 *    check the Source and Globals boxes
 
-<<<<<<< HEAD
 | button | description
 | :--- | :--- |
 | Go | execute each line until next breakpoint |
@@ -213,7 +212,11 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 
 Notice that the reset() function is not defined in the yinyang.py but the turtle.py module instead.  To view this file go to `File > Open Module`.
 
-[open-module](/assets/images/open-module.png)
+![open-module](/assets/images/open-module.png)
+
+[open-module1](/assets/images/open-module1.png)
+
+[open-module2](/assets/images/open-module2.png)
 
 *    continue to `step` through the code until the __init__.py file within the tkinter module opens.
 *    use the step `out` button to return to the reset() call and `step` into it again
