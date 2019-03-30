@@ -214,9 +214,9 @@ Notice that the reset() function is not defined in the yinyang.py but the turtle
 
 ![open-module](/assets/images/open-module.png)
 
-![open-module1](/assets/images/open-module1.png)
-
 ![open-module2](/assets/images/open-module2.png)
+
+![open-module3](/assets/images/open-module3.png)
 
 *    continue to `step` through the code until the __init__.py file within the tkinter module opens.
 *    use the step `out` button to return to the reset() call and `step` into it again
