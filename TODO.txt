@@ -16,3 +16,4 @@ Ideas for blogs, cheat sheets:
 - Classes and dictionaries
 - Step through lindenmeyer anklets of krishna 
 - problem to solve
+- string and int print("5" + "5")
