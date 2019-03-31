@@ -242,7 +242,8 @@ width()
 ```
 *    Read through [Al's description](http://inventwithpython.com/invent4thed/chapter6.html) of the debugger.
 
-## Step through peace.py using ipdb in cli (command line)
-There are many, many books written on python but one of the quickest ways to become fluent is to read well written code (standard library) and interact with it.  The easiest way to do this is through the command line.  The last exercise probably highlighted the limitations of an IDE like IDLE.  Next we'll look at the command line and the [ipython debugger idpb...](https://halkypi.github.io/sh/2019/03/30/ipdb.html)
+## Next Steps
+
+There are many, many books written on python.  One of the quickest ways to become fluent is to read well written code (ie the standard library) and interact with it.  Next we'll look at the command line and the [ipython debugger idpb...](https://halkypi.github.io/sh/2019/03/30/ipdb.html)
 
 ![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
