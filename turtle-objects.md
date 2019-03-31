@@ -190,7 +190,7 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 
 ![1](/sh/assets/images/turtle1.png?raw=true)
 
-## Debug peace.py
+## Debug yinyang.py
 
 *    copy the script from the final example to the clipboard
 *    paste into a `File > New File`
