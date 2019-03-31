@@ -17,3 +17,4 @@ Ideas for blogs, cheat sheets:
 - Step through lindenmeyer anklets of krishna 
 - problem to solve
 - string and int print("5" + "5")
+- Want to step inside this function? Use s(tep)
