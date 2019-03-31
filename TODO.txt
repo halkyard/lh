@@ -18,3 +18,21 @@ Ideas for blogs, cheat sheets:
 - problem to solve
 - string and int print("5" + "5")
 - Want to step inside this function? Use s(tep)
+
+-----------------------------------------------
+I'm interested to see what packages from the standard library could be taught through turtle.
+
+| turtledemo | packages used |
+| :--- | :--- |
+| turtle | tkinter, types, math, inspect, sys, os
+copy
+| bytedesign | time |
+| clock | datetime |
+| forest | random, time |
+| fractalcurves | time |
+| nim | random, time |
+| penrose | math, time |
+| rosette | time |
+| sorting_animate | random |
+| tree | time |
+
