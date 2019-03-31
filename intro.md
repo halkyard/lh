@@ -71,5 +71,7 @@ Click `File > New File`.  You should now have the interpreter (or shell) next to
 ### Next Steps
 
 *    Read and complete the exercises in chapters 1 through 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+*    Review the [accompanying playlist](https://youtu.be/1F_OgqRuSdI)
+*    Move on to the [intro to python objects](https://halkypi.github.io/sh/intro.html)
 
 
