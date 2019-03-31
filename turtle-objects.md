@@ -210,7 +210,7 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 *    run the program again but this time `step` into the `main()` function on line 48
 *    step into the reset() call on line 41
 
-Notice that the reset() function is not defined in the yinyang.py but the turtle.py module instead.  To view this file go to `File > Open Module`.
+Notice the reset() function is not defined in yinyang.py but turtle.py instead.  To view this file go to `File > Open Module`.
 
 ![open-module](/assets/images/open-module.png)
 
@@ -222,10 +222,11 @@ Notice that the reset() function is not defined in the yinyang.py but the turtle
 *    use the step `out` button to return to the reset() call and `step` into it again
 This time the debugger goes to the turtle.reset() call.
 *    read through the reset() documentation in the comments
-This is where python documentation is mastered, right there in the code.  It is then pulled out 
-*    browse through turtle.py, locate the other key yingyang functions and browse documentation 
 
-This step is meant to be iterative, it will involve interacting with the step, over and out buttons in the debugger.  It should be possible to step through all the yingyang code and get a sense for how it is working.  
+This is where python documentation is mastered, right there in the code.
+*    browse through turtle.py, locate other key yingyang functions and browse the documentation 
+
+This is meant to be iterative, it will involve interacting with the `step`, `over` and `out` buttons in the debugger.  Step through all the yingyang code and get a sense for how it is working.  
 ```
 backward()
 begin_fill()
@@ -242,6 +243,6 @@ width()
 *    Read through [Al's description](http://inventwithpython.com/invent4thed/chapter6.html) of the debugger.
 
 ## Step through peace.py using ipdb in cli (command line)
-There are many, many books written on python but one of the quickest ways to become fluent is to read well written code (standard library) and interact with it.  The easiest way to do this is through the command line.  The last exercise probably highlighted the limitations of an IDE like IDLE.  Next we'll look at the command line.. 
+There are many, many books written on python but one of the quickest ways to become fluent is to read well written code (standard library) and interact with it.  The easiest way to do this is through the command line.  The last exercise probably highlighted the limitations of an IDE like IDLE.  Next we'll look at the command line and the [ipython debugger idpb...](https://halkypi.github.io/sh/2019/03/30/ipdb.html)
 
 ![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
