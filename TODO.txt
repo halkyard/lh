@@ -19,7 +19,17 @@ Ideas for blogs, cheat sheets:
 - string and int print("5" + "5")
 - Want to step inside this function? Use s(tep)
 
+
 -----------------------------------------------
+
+turtle
+
+Can I make a moot clock timer:
+    green 25 min
+    yellow 5 min
+    RED
+
+
 I'm interested to see what packages from the standard library could be taught through turtle.
 
 | turtledemo | packages used |
