@@ -70,6 +70,7 @@ Click `File > New File`.  You should now have the interpreter (or shell) next to
 
 ### Next Steps
 
+*    Complete [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) in learning lab
 *    Read and complete the exercises in chapters 1 through 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *    Review the [accompanying playlist](https://youtu.be/1F_OgqRuSdI)
 *    Move on to [Turtle - an intro to python objects](https://halkypi.github.io/sh/intro.html)
