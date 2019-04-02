@@ -70,12 +70,12 @@ Click `File > New File`.  You should now have the interpreter (or shell) next to
 
 ### Next Steps
 
-*    Browse the civic hackers site at [https://github.com/github/government.github.com](https://github.com/github/government.github.com)
+*    Browse other [GH Pages](https://github.com/collections/github-pages-examples)
+*    Explore [Open Source](https://github.com/explore) repositories
+*    Peruse the civic hackers site at [https://github.com/github/government.github.com](https://github.com/github/government.github.com)
 
 > Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations [http://government.github.com/](http://government.github.com/).
 
-*    Peruse other [GH Pages](https://github.com/collections/github-pages-examples)
-*    Explore [Open Source](https://github.com/explore) repositories
 *    Complete [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) in learning lab
 *    Read and complete the exercises in chapters 1 through 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *    Review the [accompanying playlist](https://youtu.be/1F_OgqRuSdI)
