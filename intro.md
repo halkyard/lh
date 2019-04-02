@@ -4,7 +4,7 @@ title: Intro
 nav_order: 1
 ---
 # Background
-This is an introduction to data wrangling for legal hackers!  This material has been put together by lawyers for lawyers.  The  hope is this resource can grow as we build a community of people that love the law, hacking and data wrangling. Learn more about hacker culture here: [Heros of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution).
+This is an introduction to data wrangling for legal hackers!  The material has been put together by lawyers for lawyers.  The  hope is this resource can grow as we build a community of makers that love the law, hacking and data wrangling. Learn more about hacker culture here: [Heros of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution).
 
 # Getting started
 
@@ -70,9 +70,13 @@ Click `File > New File`.  You should now have the interpreter (or shell) next to
 
 ### Next Steps
 
+*    Browse the civic hackers site at [https://github.com/github/government.github.com](https://github.com/github/government.github.com)
+
+> Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations [http://government.github.com/](http://government.github.com/).
+
+*    Peruse other [GH Pages](https://github.com/collections/github-pages-examples)
+*    Explore [Open Source](https://github.com/explore) repositories
 *    Complete [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) in learning lab
 *    Read and complete the exercises in chapters 1 through 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *    Review the [accompanying playlist](https://youtu.be/1F_OgqRuSdI)
 *    Move on to [Turtle - an intro to python objects](https://halkypi.github.io/sh/intro.html)
-
-
