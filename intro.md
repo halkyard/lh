@@ -8,7 +8,7 @@ This is an introduction to data wrangling for legal hackers!  The material has b
 
 # Getting started
 
-We'll be using Python 3 because it's free, powerful, full stack ([Python is the second-best language for everything](https://twitter.com/jakevdp/status/994934052091318272?lang=en)) and the [lingua franca of data wrangling](https://www.kaggle.com/learn/overview).  There may also be a little [SQL](https://www.sqlite.org/index.html).
+We'll be using Python 3 because it's free, powerful, full stack ([Python is the second-best language for everything](https://twitter.com/jakevdp/status/994934052091318272?lang=en)) and the [lingua franca of data science](https://www.kaggle.com/learn/overview).  There may also be a little [SQL](https://www.sqlite.org/index.html).
 
 ## Install Python
 
