@@ -4,7 +4,7 @@ title: Intro
 nav_order: 1
 ---
 # Background
-This is an introduction to data wrangling for legal hackers!  The material has been put together by lawyers for lawyers.  The  hope is this resource can grow as we build a community of makers that love the law, hacking and data wrangling. Learn more about hacker culture here: [Heros of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution).
+This is an introduction to data wrangling for legal hackers!  The material has been put together by lawyers for lawyers so we can learn to swim in data.  The  hope is this resource can grow as we build a community of makers that love the law, hacking and data wrangling. Learn more about hacker culture here: [Heros of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution).
 
 # Getting started
 
