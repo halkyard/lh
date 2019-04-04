@@ -247,3 +247,7 @@ width()
 There are many, many [excellent books](https://wiki.python.org/moin/PythonBooks) written on python.  One of the quickest ways to become fluent is to read well written code (ie the standard library) and interact with it.  Next we'll look at the command line and the [ipython debugger idpb...](https://halkypi.github.io/sh/2019/03/30/ipdb.html)
 
 ![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
+
+*    Do not fear the command line, there is no avoiding it in the open source world
+*    Get into Linux too, there is no avoiding that either
+
