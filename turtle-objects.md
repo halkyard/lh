@@ -1,9 +1,10 @@
 ---
+layout: default
 title: Turtle
 description: Everything in Python is an object
 ---
-# Introduction to python objects through Turtle graphics
-Everything in Python is an object.  We'll use the turtle demo to explore basic data types because:
+## Introduction to python objects through Turtle graphics
+Everything in Python is an object.  We'll explore the basic object types using the turtle [demo](https://docs.python.org/3/library/turtle.html#module-turtledemo) because:
 *   it can be boring to learn building blocks without making anything
 *   it helps to visualize abstract concepts with concrete examples
 

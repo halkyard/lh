@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Tool makers"
+---
 ## The miraculous capacity of humans to make tools
 
 I had a fascinating conversation with a professor today about law, ethics and techonology.  It reminded me of this talk by David Beazley.  This is legal hacking at it's finest!
