@@ -253,7 +253,7 @@ This time the debugger goes to the turtle.reset() call.
 *    read through the reset() documentation in the comments
 
 This is where python documentation is mastered, right there in the code.
-*    browse through turtle.py, locate other key yingyang functions and browse the documentation 
+*    browse through turtle.py, locate other key yinyang functions and browse the documentation 
 
 This is meant to be iterative, it will involve interacting with the `step`, `over` and `out` buttons in the debugger.  Step through all the yingyang code and get a sense for how it is working.  
 ```
@@ -275,8 +275,9 @@ width()
 
 There are many, many [excellent books](https://wiki.python.org/moin/PythonBooks) written on python.  One of the quickest ways to become fluent is to read well written code (ie the standard library) and interact with it.  Next we'll look at the command line and the [ipython debugger idpb...](https://halkypi.github.io/sh/2019/03/30/ipdb.html)
 
-![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
-
 *    Do not fear the command line, there is no avoiding it in the open source world
 *    Get into Linux too, there is no avoiding that either
+
+![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
+
 
