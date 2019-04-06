@@ -72,7 +72,7 @@ This opens a window and shows the turtle in logo mode.  The motion and drawing c
 ![0](/sh/assets/images/turtle0.png?raw=true)
 
 ```
-from turtle import*
+from turtle import *
 mode('logo')
 st()
 fd(100)
@@ -111,14 +111,6 @@ comment
 ##fd(100)
 ##rt(90)
 
-# range
-
-## help(range)
-## range(4)
-## for i in range(4): print("Hi!")
-## for spam in range(4): print("eggs!")
-## for spam in range(4): print(spam)
-## for spam in "eggs": print(spam)
 
 # Defining a Function
 
@@ -134,7 +126,14 @@ def square():           # indentation matters in python
 
 # square()
 
-# Using a loop
+# Iterating with the range() function
+
+## help(range)
+## range(4)
+## for i in range(4): print(i)
+## for spam in range(4): print(spam)
+## for spam in range(4): print("eggs!")
+## for spam in "eggs": print(spam)
 
 def square():
     for i in range(4):  
