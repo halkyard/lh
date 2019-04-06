@@ -46,7 +46,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## Import turtle
 
-Importing turtle can be done in the same way.  The module is written using the gui package tkinter.  Let's view and interact with a turtle object through IDLE.
+Importing turtle can be done in the same way.  The module is written using the gui package [tkinter](https://docs.python.org/3/library/tkinter.html).  Let's view and interact with a turtle object through IDLE.
 
 ```py
 from turtle import *
@@ -67,9 +67,25 @@ This opens a window and shows the turtle in logo mode.  The motion and drawing c
 |penup()  | pu() |
 |pendown()  | pd() |
 
+*    Try this simple example in the Shell
+
 ![0](/sh/assets/images/turtle0.png?raw=true)
 
-*    credit to Allen Downey http://www.allendowney.com/wp/ for shapes.py below, any mistakes are mine
+```
+from turtle import*
+mode('logo')
+st()
+fd(100)
+rt(90)
+fd(150)
+lt(45)
+bk(100)
+lt(45)
+pu()
+fd(100)
+```
+
+*    Copy shapes.py below into a new file and run through the examples
 
 ```py
 # shapes.py
