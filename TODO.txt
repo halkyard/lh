@@ -18,6 +18,14 @@ Ideas for blogs, cheat sheets:
 - problem to solve
 - string and int print("5" + "5")
 - Want to step inside this function? Use s(tep)
+- grep with ubuntu, as part of regular expressions
+- how to search online for packages, for example the cryptographic package
+    - errors can usually be put straight in that will take you to stack overflow, or other verified Q&A system
+    - youtube can help
+SQL:   https://inloop.github.io/sqlite-viewer/
+    https://www.youtube.com/watch?v=SQj17D1Q_6s
+
+- Google Bert: https://www.youtube.com/watch?v=hu8lEz9oZZ0
 
 
 -----------------------------------------------

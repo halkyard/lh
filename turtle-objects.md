@@ -4,15 +4,16 @@ title: Turtle
 description: Everything in Python is an object
 ---
 ## Introduction to python objects through Turtle graphics
-Everything in Python is an object.  We'll explore the basic object types using the turtle [demo](https://docs.python.org/3/library/turtle.html#module-turtledemo) because:
-*   it can be boring to learn building blocks without making anything
-*   it helps to visualize abstract concepts with concrete examples
+Everything in Python is an object.  We'll explore basic object types using the turtle [demo](https://docs.python.org/3/library/turtle.html#module-turtledemo) because it:
+*   can be boring to learn building blocks without making anything
+*   helps to visualize abstract concepts with concrete examples
 
 It is also good to reinforce the principle that it is possible to learn topics of interest through python packages.  Again, we'll use IDLE, not because it is the best development environment in the world, but because it's written in python and cross platform.  
 
 ## Resources
 
 *    [Turtle Geometry: The Computer as a Medium for Exploring Mathematics - Artificial Intelligence](https://www.amazon.com/gp/product/0262510375)
+*    [MIT AI Lab - Logo Turtle Graphics for the Lisp Machine](https://dspace.mit.edu/bitstream/handle/1721.1/41158/AI_WP_214.pdf?sequence=4)
 *    [Turtle docs](https://docs.python.org/3.3/library/turtle.html?highlight=turtle)
 
 ## Importing the Zen of python
@@ -211,7 +212,6 @@ def super_star_group(size):
 
 ##speed(0)  
 ##super_star_group(100)
-
 ```
 ## Turtle demo
 
@@ -231,8 +231,8 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 | :--- | :--- |
 | Go | execute each line until next breakpoint |
 | Step | execute line, functions are called |
-| Over | execute next line but step over functions |
-| Out | execute each line until the next return |
+| Over | execute line, functions are stepped over |
+| Out | execute each line until next return |
 
 *    run the program, set a breakpoint and click Go
 *    clear breakpoint, run the program, and continue to click `over` until the program completes 
@@ -241,21 +241,22 @@ In the IDLE shell go to: `Help > Turtle Demo` and run through the examples.
 
 Notice the reset() function is not defined in yinyang.py but turtle.py instead.  To view this file go to `File > Open Module`.
 
-![open-module](/assets/images/open-module.png)
+![open-module](/sh/assets/images/open-module.png?raw=true)
 
-![open-module2](/assets/images/open-module2.png)
+![open-module2](/sh/assets/images/open-module2.png?raw=true)
 
-![open-module3](/assets/images/open-module3.png)
+![open-module3](/sh/assets/images/open-module3.png?raw=true)
 
 *    continue to `step` through the code until the __init__.py file within the tkinter module opens.
-*    use the step `out` button to return to the reset() call and `step` into it again
+*    use the step `out` button to return to the reset() call and `step` into it again.  
+
 This time the debugger goes to the turtle.reset() call.
 *    read through the reset() documentation in the comments
 
 This is where python documentation is mastered, right there in the code.
 *    browse through turtle.py, locate other key yinyang functions and browse the documentation 
 
-This is meant to be iterative, it will involve interacting with the `step`, `over` and `out` buttons in the debugger.  Step through all the yingyang code and get a sense for how it is working.  
+This exercise is meant to be iterative, it will involve interacting with the `step`, `over` and `out` buttons in the debugger.  Step through all the yingyang code and get a sense for how it is working.  
 ```
 backward()
 begin_fill()
