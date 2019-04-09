@@ -8,14 +8,29 @@ permalink: /cryptopandas
 pandas
 
 Speaker: Kevin Markham
+
+
+
 https://www.dataschool.io/
 https://github.com/justmarkham/pycon-2018-tutorial
 https://www.kaggle.com/rounakbanik/ted-talks
 These datasets contain information about all audio-video recordings of TED Talks uploaded to the official TED.com website until September 21st, 2017. The TED main dataset contains information about all talks including number of views, number of comments, descriptions, speakers and titles. The TED transcripts dataset contains the transcripts for all talks available on TED.com.
-https://youtu.be/0hsKLYfyQZc
+playlist generated from pycon tutorial:  
+
+https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6
 https://www.youtube.com/dataschool
+
 https://github.com/stanford-policylab/opp/blob/master/data_readme.md
 https://openpolicing.stanford.edu/data/
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
+Sentex:  https://www.udemy.com/become-a-professional-python-programmer/learn/lecture/3473030#overview
+
+Jose Portilla:  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760272#overview
+
+Wes McKinney:  https://github.com/wesm/pydata-book 
+
+He is the creator and "Benevolent Dictator for Life" (BDFL) of the open-source pandas package for data analysis in the Python programming language
 
 The pandas library is a powerful tool for multiple phases of the data science workflow, including data cleaning, visualization, and exploratory data analysis. However, proper data science requires careful coding, and pandas will not stop you from creating misleading plots, drawing incorrect conclusions, ignoring relevant data, including misleading data, or executing incorrect calculations.
 
