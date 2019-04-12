@@ -9,7 +9,12 @@ pandas
 
 Speaker: Kevin Markham
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2
+https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb#10.-Your-pandas-questions-answered%21-%28video%29
+https://news.efinancialcareers.com/uk-en/275775/github-open-source-hedge-fund-wes-mckinney-python
+https://news.efinancialcareers.com/uk-en/266968/how-to-become-a-python-coder-at-a-hedge-fund/
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 https://www.dataschool.io/
 https://github.com/justmarkham/pycon-2018-tutorial
