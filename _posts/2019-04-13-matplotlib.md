@@ -1,7 +1,7 @@
 ---
 layout: post
 title: matplotlib
-publish: true
+publish: false
 permalink: /matplotlib
 ---
 
