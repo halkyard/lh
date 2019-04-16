@@ -9,6 +9,8 @@ pandas
 
 Speaker: Kevin Markham
 
+http://bit.ly/sh-pandas
+
 ~~~~~~~~~~~~~~~~~~~~~~~~
 https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2
 https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb#10.-Your-pandas-questions-answered%21-%28video%29
