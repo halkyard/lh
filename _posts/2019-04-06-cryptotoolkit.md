@@ -31,6 +31,7 @@ permalink: /cryptotoolkit
 *    [Symmetric key](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 *    [passphrase](https://en.wikipedia.org/wiki/Passphrase)
 *    [diceware](http://world.std.com/~reinhold/diceware.html)
+*    [ssd](https://ssd.eff.org/)
 
 ### Exercises
 
