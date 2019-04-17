@@ -30,6 +30,7 @@ permalink: /cryptotoolkit
 *    [https://cryptography.io/en/latest/](https://cryptography.io/en/latest/)
 *    [Symmetric key](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 *    [passphrase](https://en.wikipedia.org/wiki/Passphrase)
+*    [diceware](http://world.std.com/~reinhold/diceware.html)
 
 ### Exercises
 
