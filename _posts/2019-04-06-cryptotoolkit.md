@@ -1,8 +1,8 @@
 ---
 layout: post
-title: crypto pandas
+title: Unlocking the toolkit
 published: false
-permalink: /cryptopandas
+permalink: /cryptotoolkit
 ---
 
 ## Cryptography & privacy tools
@@ -31,11 +31,39 @@ permalink: /cryptopandas
 *    [Symmetric key](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 *    [passphrase](https://en.wikipedia.org/wiki/Passphrase)
 
+### Exercises
 
+*    Decrypt: [crypto-files.zip.encrypted](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/halkypi/sh/blob/gh-pages/assets/code/crypto-files.zip.encrypted) using [encrypt_101.py](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/halkypi/sh/blob/gh-pages/assets/code/encrypt_101.py) with the passphrase you've been given.
+*    Download and install the gpg encryption tool for your operating system and decrypt the .gpg file using the key hidden in crypto-files.zip
+*    Run through the tool kit tour
 
 ## pandas
 
-Speaker: Kevin Markham
+Useful resources:
+
+*    Jake VanderPlas:  https://jakevdp.github.io/PythonDataScienceHandbook/
+*    Wes McKinney:  https://github.com/wesm/pydata-book 
+*    Kevin Markham: https://www.dataschool.io/
+
+
+Use pandas to explore the following datasets:
+
+*    https://www.kaggle.com/rounakbanik/ted-talks
+
+These datasets contain information about all audio-video recordings of TED Talks uploaded to the official TED.com website until September 21st, 2017. The TED main dataset contains information about all talks including number of views, number of comments, descriptions, speakers and titles. The TED transcripts dataset contains the transcripts for all talks available on TED.com.
+
+*    https://openpolicing.stanford.edu/data/
+
+On a typical day in the United States, police officers make more than 50,000 traffic stops. Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country. Our goal is to help researchers, journalists, and policymakers investigate and improve interactions between police and the public.  See also [data_readme.md](https://github.com/stanford-policylab/opp/blob/master/data_readme.md)
+
+## Connecting data
+
+*    This database can be explored using neo4J and reallydemonstrates the power of connected data:  https://offshoreleaks.icij.org/pages/database
+
+*    [https://gephi.org/](https://gephi.org/)
+
+
+## TODO:
 
 http://bit.ly/sh-pandas
 
@@ -46,7 +74,7 @@ https://news.efinancialcareers.com/uk-en/275775/github-open-source-hedge-fund-we
 https://news.efinancialcareers.com/uk-en/266968/how-to-become-a-python-coder-at-a-hedge-fund/
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-https://www.dataschool.io/
+
 https://github.com/justmarkham/pycon-2018-tutorial
 https://www.kaggle.com/rounakbanik/ted-talks
 These datasets contain information about all audio-video recordings of TED Talks uploaded to the official TED.com website until September 21st, 2017. The TED main dataset contains information about all talks including number of views, number of comments, descriptions, speakers and titles. The TED transcripts dataset contains the transcripts for all talks available on TED.com.
@@ -56,25 +84,14 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6
 https://www.youtube.com/dataschool
 
 https://github.com/stanford-policylab/opp/blob/master/data_readme.md
-https://openpolicing.stanford.edu/data/
-https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Sentex:  https://www.udemy.com/become-a-professional-python-programmer/learn/lecture/3473030#overview
 
 Jose Portilla:  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760272#overview
 
-Wes McKinney:  https://github.com/wesm/pydata-book 
-
-He is the creator and "Benevolent Dictator for Life" (BDFL) of the open-source pandas package for data analysis in the Python programming language
-
-The pandas library is a powerful tool for multiple phases of the data science workflow, including data cleaning, visualization, and exploratory data analysis. However, proper data science requires careful coding, and pandas will not stop you from creating misleading plots, drawing incorrect conclusions, ignoring relevant data, including misleading data, or executing incorrect calculations.
-
-In this tutorial, you'll perform a variety of data science tasks on a handful of real-world datasets using pandas. With each task, you'll learn how to avoid either a pandas pitfall or a data science pitfall. By the end of the tutorial, you'll be more confident that you're using pandas for good rather than evil!
-
-Participants should have a working knowledge of pandas and an interest in data science, but are not required to have any experience with the data science workflow. Datasets will be provided by the instructor.
 
 Slides can be found at: https://speakerdeck.com/pycon2018 and https://github.com/PyCon/2018-slides
-https://offshoreleaks.icij.org/pages/database
+
 
 https://haveibeenpwned.com/
 https://youtu.be/hhUb5iknVJs
