@@ -1571,6 +1571,7 @@ def main():
         a.append(password())
     passphrase = " ".join(a)
     print('New password has been copied to your clipboard.\nClear it with: pbcopy < /dev/null')
+    print('Windows: cmd /c "echo off | clip"')
     pyperclip.copy(passphrase)
 
 if __name__ == '__main__':
