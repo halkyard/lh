@@ -5,7 +5,32 @@ published: false
 permalink: /cryptopandas
 ---
 
-pandas
+## Cryptography & privacy tools
+
+*    [https://www.privacytools.io/](https://www.privacytools.io/)
+
+![encrypt1](/sh/assets/images/encrypt1.png?raw=true)
+
+
+### tools
+
+*    [email](https://www.privacytools.io/providers/email/)
+*    [browser](https://www.privacytools.io/browsers/)
+*    [im](https://www.privacytools.io/software/im/)
+*    [password manager](https://www.privacytools.io/software/passwords/)
+*    [https://bitwarden.com/](https://bitwarden.com/)
+
+### encryption:
+
+*    [https://gnupg.org/download/](https://gnupg.org/download/)
+*    Mac:  [https://gpgtools.org/](https://gpgtools.org/)
+*    Windows: [https://gpg4win.org/download.html](https://gpg4win.org/download.html)
+*    [Cryptography in Python](https://youtu.be/UsdPAkB77PQ)
+*    [Encryption and Decryption in Python](https://nitratine.net/blog/post/encryption-and-decryption-in-python/#encrypting-and-decrypting-files)
+*    [https://cryptography.io/en/latest/](https://cryptography.io/en/latest/)
+*    [Symmetric key](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+
+## pandas
 
 Speaker: Kevin Markham
 
@@ -47,20 +72,6 @@ Participants should have a working knowledge of pandas and an interest in data s
 
 Slides can be found at: https://speakerdeck.com/pycon2018 and https://github.com/PyCon/2018-slides
 https://offshoreleaks.icij.org/pages/database
-## Cryptography
 
-![encrypt1](/sh/assets/images/encrypt1.png?raw=true)
-https://nitratine.net/blog/post/encryption-and-decryption-in-python/#encrypting-and-decrypting-files
-https://www.dlitz.net/software/pycrypto/doc/
-https://youtu.be/UsdPAkB77PQ
-https://www.privacytools.io/
-brave
-signal
-lastpass: https://www.privacytools.io/software/passwords/
-https://gpgtools.org/
-https://inventwithpython.com/hacking/chapter24.html
-public and private key
-Advanced Encryption Standard (AES)
-https://github.com/mikepound/pwned-search
 https://haveibeenpwned.com/
 https://youtu.be/hhUb5iknVJs
