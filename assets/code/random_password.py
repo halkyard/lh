@@ -1570,7 +1570,7 @@ def main():
     for i in range(1,6):
         a.append(password())
     passphrase = " ".join(a)
-    print('new password has been copied to your clipboard')
+    print('New password has been copied to your clipboard.\nClear it with: pbcopy < /dev/null')
     pyperclip.copy(passphrase)
 
 if __name__ == '__main__':
