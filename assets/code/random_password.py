@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Creates 5 random dice answers for passphrase generation
 # http://world.std.com/~reinhold/diceware.html
-import secrets, pyperclip 
+import pyperclip, secrets
 
 word_dict = {'11111': 'a' , '11112' : 'a&p' , '11113' : "a's" , '11114' : 'aa'
 , '11115' : 'aaa' , '11116' : 'aaaa' , '11121' : 'aaron' , '11122' : 'ab' , '11123' : 'aba'
@@ -1561,6 +1561,7 @@ word_dict = {'11111': 'a' , '11112' : 'a&p' , '11113' : "a's" , '11114' : 'aa'
 , '66665' : '??' , '66666' : '@'} 
 
 def password():
+    """Returns a random password from the word dictionary"""  
 
     dice_list = []
     for i in range(5):
@@ -1568,14 +1569,28 @@ def password():
     dice_key = ''.join(str(x) for x in dice_list)
     return word_dict[dice_key]
 
-def main():
+def passphrase():
+    """ Creates a phrase by joining the five passwords together and inserting
+        a random character in the middle.
+    """
     a = []
     for i in range(1,6):
         a.append(password())
-    passphrase = " ".join(a)
+    # join words into phrase
+    p = " ".join(a)
+    # split phrase into a list
+    p = list(p)
+    #  substitute a random character
+    rc = """1~!#$%^2&*()-=3+[]\{}4:;"'<>5?/01236456789"""
+    p[secrets.choice(range(0,len(p)))] = rc[secrets.choice(range(0,len(rc)))]
+    # put phrase back together
+    p = "".join(p)
+    return p
+
+def main():
     print('New password has been copied to your clipboard.\nClear it with: pbcopy < /dev/null')
     print('Windows: cmd /c "echo off | clip"')
-    pyperclip.copy(passphrase)
+    pyperclip.copy(passphrase())
 
 if __name__ == '__main__':
     main()
