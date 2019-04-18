@@ -1588,7 +1588,7 @@ def passphrase():
     return p
 
 def main():
-    print('New password has been copied to your clipboard.\nClear it with: pbcopy < /dev/null')
+    print('A new passphrase has been copied to your clipboard.\nClear it with: pbcopy < /dev/null')
     print('Windows: cmd /c "echo off | clip"')
     pyperclip.copy(passphrase())
 
