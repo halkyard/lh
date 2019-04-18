@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Creates 5 random dice answers for passphrase generation
 # http://world.std.com/~reinhold/diceware.html
-import random, pyperclip 
+import secrets, pyperclip 
 
 word_dict = {'11111': 'a' , '11112' : 'a&p' , '11113' : "a's" , '11114' : 'aa'
 , '11115' : 'aaa' , '11116' : 'aaaa' , '11121' : 'aaron' , '11122' : 'ab' , '11123' : 'aba'
@@ -1561,7 +1561,10 @@ word_dict = {'11111': 'a' , '11112' : 'a&p' , '11113' : "a's" , '11114' : 'aa'
 , '66665' : '??' , '66666' : '@'} 
 
 def password():
-    dice_list = random.sample(range(1, 7),5)
+
+    dice_list = []
+    for i in range(5):
+        dice_list.append(secrets.choice(range(1,7)))
     dice_key = ''.join(str(x) for x in dice_list)
     return word_dict[dice_key]
 
