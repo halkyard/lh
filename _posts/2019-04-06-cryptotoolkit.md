@@ -1,16 +1,27 @@
 ---
 layout: post
-title: Unlocking the toolkit
+title: Crypto Pandas!
 published: false
 permalink: /cryptotoolkit
 ---
 
 ## Cryptography & privacy tools
 
-*    [https://www.privacytools.io/](https://www.privacytools.io/)
-
 ![encrypt1](/sh/assets/images/encrypt1.png?raw=true)
 
+https://haveibeenpwned.com/
+
+We are the biggest weakness.
+
+*    [Vishing](https://youtu.be/bjYhmX_OUQQ?t=111)  
+*    [Hack me](https://www.youtube.com/watch?v=bjYhmX_OUQQ&feature=youtu.be&t=280)
+
+Same password everywhere - password manager, sql dumps:
+
+*   [pwned?](https://youtu.be/hhUb5iknVJs)
+*    [https://github.com/mikepound/pwned-search](https://github.com/mikepound/pwned-search)
+
+[https://www.privacytools.io/](https://www.privacytools.io/):
 
 ### tools
 
@@ -46,7 +57,7 @@ Useful resources:
 *    Jake VanderPlas:  https://jakevdp.github.io/PythonDataScienceHandbook/
 *    Wes McKinney:  https://github.com/wesm/pydata-book 
 *    Kevin Markham: https://www.dataschool.io/
-
+*    Kaggle: https://www.kaggle.com/learn/pandas
 
 Use pandas to explore the following datasets:
 
@@ -95,5 +106,3 @@ Jose Portilla:  https://www.udemy.com/python-for-data-science-and-machine-learni
 Slides can be found at: https://speakerdeck.com/pycon2018 and https://github.com/PyCon/2018-slides
 
 
-https://haveibeenpwned.com/
-https://youtu.be/hhUb5iknVJs
