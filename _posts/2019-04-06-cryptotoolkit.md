@@ -2,7 +2,7 @@
 layout: post
 title: Crypto Pandas!
 published: false
-permalink: /cryptotoolkit
+permalink: /cryptopandas
 ---
 
 ## Cryptography & privacy tools
