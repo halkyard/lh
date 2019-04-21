@@ -278,6 +278,7 @@ There are many, many [excellent books](https://wiki.python.org/moin/PythonBooks)
 
 *    Do not fear the command line, there is no avoiding it in the open source world
 *    Get into Linux too, there is no avoiding that either
+*    Here is an excellent introduction by the Software Carpentry Foundation: [https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/)
 
 ![command-line](https://img.photobucket.com/albums/v647/vtel57/NSBLog/cli-fear_shot.jpg)
 
