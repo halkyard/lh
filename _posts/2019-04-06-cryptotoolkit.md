@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Crypto Pandas!
-published: false
+published: true
 permalink: /cryptopandas
 ---
 
-## Cryptography & privacy tools
+## Cryptography & Privacy Tools
 
 ![encrypt1](/sh/assets/images/encrypt1.png?raw=true)
 
-https://haveibeenpwned.com/
+Exercise: 
+
+[https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
 We are the biggest weakness.
 
