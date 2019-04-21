@@ -77,6 +77,7 @@ git commit -m "initial commit"
 ![](/sh/assets/images/initial-commit.png?raw=true)
 
 ```
+git remote add origin https://github.com/halkypi/lh.git
 git push -u origin gh-pages
 ```
 #### Reload repository
