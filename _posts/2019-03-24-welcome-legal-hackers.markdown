@@ -4,7 +4,7 @@ title:  "Hello legal hackers!"
 date:   2019-03-24 14:41:01 -0400
 categories: data wrangling
 ---
-This is a "Hello world" minimal site to guage interest in a 'hands on' approach to legal hacking.  It's also a place to put: 
+This is a "Hello world" minimal site to gauge interest in a 'hands on' approach to legal hacking.  It's also a place to put: 
 *    how to guides 
 *    cheat sheets
 *    shared learnings
