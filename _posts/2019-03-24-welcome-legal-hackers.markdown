@@ -9,7 +9,7 @@ This is a "Hello world" minimal site to gauge interest in a 'hands on' approach 
 *    cheat sheets
 *    shared learnings
 
-The first of these is on the [Intro page](/sh/Intro), it covers the installation of python and running `hello.py` from the terminal and IDLE.  
+The first of these is on the [Intro page](/sh/intro), it covers the installation of python and running `hello.py` from the terminal and IDLE.  
 
 The rest of this page is a cheat sheet for setting up a website using Jekyll and GitHub pages.  **Please note** the baseurl in the screenshots below are out of date because I subsequently created `sh` as a personal/sandbox site and `lh` as a collaboration site.  The lh one will be right, I may get to correcting the sandbox ones, I may not :-).  The code snippets should be right though.
 
